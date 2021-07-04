@@ -1,0 +1,36 @@
+{
+  "_code": 200,
+  "_data": {
+    "noPassedServiceList": {
+      "code": 0,
+      "msg": "",
+      "count": 100,
+      "data": [
+        {
+          "id": "1",
+          "serviceName": "养老咨询",
+          "serviceDetails": "emmmmmm...",
+          "cost": "0.5",
+          "oid": "12",
+          "auditResult": "true"
+        },
+        {
+          "id": "2",
+          "serviceName": "医疗保健",
+          "serviceDetails": "emmmmmm...",
+          "cost": "0.5",
+          "oid": "12",
+          "auditResult": "true"
+        },
+        {
+          "id": "3",
+          "serviceName": "全面体检",
+          "serviceDetails": "emmmmmm...",
+          "cost": "0.5",
+          "oid": "12",
+          "auditResult": "true"
+        }
+      ]
+    }
+  }
+}

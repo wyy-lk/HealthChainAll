@@ -1,0 +1,23 @@
+{
+  "_code": "200",
+  "_data": {
+    "ethAddress": "0Xabasdddasda",
+    "balance": "200",
+    "transactionRecordList": {
+      "code": 0,
+      "msg": "",
+      "count": 100,
+      "data": [
+        {
+          "id": "1",
+          "sendAddress": "0Xabasdddasda",
+          "recieveAddress": "0Xabasdddasda",
+          "transactEth": "0Xabasdddasda",
+          "transactTime": "2018-1-5",
+          "transactAddr": "0Xabasdddasda",
+          "transactRemarks": ""
+        }
+      ]
+    }
+  }
+}

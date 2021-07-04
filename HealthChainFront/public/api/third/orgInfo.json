@@ -1,0 +1,15 @@
+{
+  "_code": "200",
+  "_data": {
+    "id": "1",
+    "account": "123",
+    "password": "0Xabasdddasda",
+    "ethAddress": "10000",
+    "organizationName": "机构名称",
+    "type": "第三方..",
+    "certificateResult": "认证结果..未认证",
+    "certificateFiles": "认证文件..null",
+    "certificateTime": "2018-1-5",
+    "balance": "100000000"
+  }
+}

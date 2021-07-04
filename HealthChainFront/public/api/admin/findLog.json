@@ -1,0 +1,19 @@
+{
+  "_code": 200,
+  "_data": {
+    "logList": {
+      "code": 0,
+      "msg": "",
+      "count": 100,
+      "data": [
+        {
+          "id": "1",
+          "operateId": "123",
+          "operateDetails": "删除..",
+          "operateTime": "2018-1-5",
+          "operateResult": "ok"
+        }
+      ]
+    }
+  }
+}

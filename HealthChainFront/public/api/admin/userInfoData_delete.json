@@ -1,0 +1,36 @@
+{
+  "_code": "200",
+  "_data": {
+    "userList": {
+      "code": 0,
+      "msg": "",
+      "count": 100,
+      "data": [
+        {
+          "id": "1",
+          "account": "123",
+          "nickName": "小皮球",
+          "password": "0Xabasdddasda",
+          "ethAddress": "10000",
+          "sex": "2018-1-5",
+          "address": "0Xabasdddasda",
+          "birth": "2018-1-5",
+          "tel": "13333333333",
+          "balance": "200"
+        },
+        {
+          "id": "3",
+          "account": "789",
+          "nickName": "身高一米三",
+          "password": "0Xabasdddasda",
+          "ethAddress": "10000",
+          "sex": "2018-1-5",
+          "address": "0Xabasdddasda",
+          "birth": "2018-1-5",
+          "tel": "13333333333",
+          "balance": "200"
+        }
+      ]
+    }
+  }
+}

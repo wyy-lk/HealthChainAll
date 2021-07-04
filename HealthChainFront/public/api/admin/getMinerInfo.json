@@ -1,0 +1,9 @@
+{
+  "_code": "200",
+  "_data":{
+    "miner": "0x8e5f41ca9261f8859c3461f85fbdea99d6436431",
+    "balance": "1000ETC",
+    "blockNumber": 20,
+    "gasPrice": "9999Wei"
+  }
+}

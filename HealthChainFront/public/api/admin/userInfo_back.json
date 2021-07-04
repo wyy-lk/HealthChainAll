@@ -1,0 +1,15 @@
+{
+  "_code": "200",
+  "_data": {
+    "id": "1",
+    "account": "123",
+    "nickName": "小皮球球球球球",
+    "password": "9999",
+    "ethAddress": "888888",
+    "sex": "男",
+    "address": "0Xabasdddasda",
+    "birth": "2018-1-5",
+    "tel": "123",
+    "balance": "200000"
+  }
+}

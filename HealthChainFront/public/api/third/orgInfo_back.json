@@ -1,0 +1,15 @@
+{
+  "_code": "200",
+  "_data": {
+    "id": "1",
+    "account": "123",
+    "password": "0Xabasdddasda",
+    "ethAddress": "10000",
+    "organizationName": "曙光医院苏州分院....",
+    "type": "医疗机构",
+    "certificateResult": "已通过",
+    "certificateFiles": "认证文件..null",
+    "certificateTime": "2018-1-5",
+    "balance": "100000000"
+  }
+}

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="cn.edu.seu">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme"
+        android:usesCleartextTraffic="true">
+        <activity android:name=".activity.WelcomeActivity"
+            android:theme="@style/WelcomeTheme">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".activity.DataAnalyzeActivity" />
+        <activity android:name=".activity.TransactionRecordDetailActivity" />
+        <activity android:name=".activity.HealthDetailActivity" />
+        <activity android:name=".activity.ServiceHistoryActivity" />
+        <activity android:name=".activity.MedicalDetailActivity">
+
+            <!-- <intent-filter> -->
+            <!-- <action android:name="android.intent.action.MAIN" /> -->
+
+
+            <!-- <category android:name="android.intent.category.LAUNCHER" /> -->
+            <!-- </intent-filter> -->
+        </activity>
+        <activity android:name=".activity.UploadActivity" />
+        <activity android:name=".activity.UserDevicesActivity" />
+        <activity android:name=".activity.UserVisitorsActivity" />
+        <activity android:name=".activity.UserSettingActivity" />
+        <activity android:name=".activity.UserTransferActivity" />
+        <activity android:name=".activity.UserWalletActivity" />
+        <activity android:name=".activity.UserActivity" />
+        <activity android:name=".activity.UserNicknameActivity" />
+        <activity android:name=".activity.UserPasswordActivity" />
+        <activity android:name=".activity.UserPhoneActivity" />
+        <activity android:name=".activity.UserAddressActivity" />
+        <activity android:name=".activity.UserSexActivity" />
+        <activity android:name=".activity.RegisterActivity">
+
+            <!--
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+            -->
+        </activity>
+        <activity
+            android:name=".activity.LoginActivity"
+            android:exported="true">
+
+        </activity>
+        <activity
+            android:name=".activity.MainActivity"
+            android:windowSoftInputMode="adjustPan">
+
+            <!-- <intent-filter> -->
+            <!-- <action android:name="android.intent.action.MAIN" /> -->
+
+
+            <!-- <category android:name="android.intent.category.LAUNCHER" /> -->
+            <!-- </intent-filter> -->
+        </activity> <!-- velloy 安卓8以上支持 -->
+        <uses-library
+            android:name="org.apache.http.legacy"
+            android:required="false" />
+    </application>
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+</manifest>

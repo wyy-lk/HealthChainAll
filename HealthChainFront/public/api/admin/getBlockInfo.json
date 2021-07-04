@@ -1,0 +1,19 @@
+{
+  "_code": "200",
+  "_data": {
+    "difficulty": 498944,
+    "gasLimit": 134086657,
+    "gasUsed": 0,
+    "hash": "0x72746abfbe72e2b61af2099dd3deab2f87eee3e811ffc309913f6d7163c36a62",
+    "miner": "0x8e5f41ca9261f8859c3461f85fbdea99d6436431",
+    "nonce": "0x1ca1aedcc5840279",
+    "number": 1,
+    "receiptsRoot": "0x56e81f171bcc55a6ff8345e692c0f86e5b48e01b996cadc001622fb5e363b421",
+    "size": 539,
+    "stateRoot": "0x1278790af1503e8c2b93f3177c4fe4163f26fd2abf5fd08c8c512e0821779bfb",
+    "timestamp": 1581990556,
+    "totalDifficulty": 1023232,
+    "transactions": [],
+    "transactionsRoot": "0x56e81f171bcc55a6ff8345e692c0f86e5b48e01b996cadc001622fb5e363b421"
+  }
+}

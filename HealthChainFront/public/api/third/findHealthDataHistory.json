@@ -1,0 +1,32 @@
+{
+  "_code": "200",
+  "_data": [
+    {
+      "no": "1",
+      "distance": "3000步",
+      "heat": "1000卡路里",
+      "sleepQuality": "良好",
+      "heartRate": "70次/分钟",
+      "permitVisit": "是",
+      "uploadTime": "2020-3-10"
+    },
+    {
+      "no": "2",
+      "distance": "150步",
+      "heat": "1500卡路里",
+      "sleepQuality": "良好",
+      "heartRate": "75次/分钟",
+      "permitVisit": "是",
+      "uploadTime": "2020-3-13"
+    },
+    {
+      "no": "3",
+      "distance": "2000步",
+      "heat": "10000卡路里",
+      "sleepQuality": "良好",
+      "heartRate": "72次/分钟",
+      "permitVisit": "是",
+      "uploadTime": "2020-3-15"
+    }
+  ]
+}

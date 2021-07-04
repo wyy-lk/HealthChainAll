@@ -1,0 +1,19 @@
+{
+  "_code": "200",
+  "_data": {
+    "dataList": {
+      "code": 0,
+      "msg": "",
+      "count": 100,
+      "data": [
+        {
+          "id": "1",
+          "userid": "12",
+          "uploadTime": "2018-1-5",
+          "dataAddr": "0Xabasdddasda",
+          "permitVisit": "true"
+        }
+      ]
+    }
+  }
+}
