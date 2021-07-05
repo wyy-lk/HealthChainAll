@@ -18,10 +18,10 @@ npm run serve
 ### 目录结构描述
 ├─public                       
 │  ├─api                         //测试时的接口数据
-│  │  ├─admin              //管理员
-│  │  ├─third                 //第三方机构
-│  │  └─user                 //个人用户
-│  └─layuiadmin          //layui相关文件
+│  │  ├─admin                   //管理员
+│  │  ├─third                   //第三方机构
+│  │  └─user                    //个人用户
+│  └─layuiadmin                 //layui相关文件
 │      ├─json
 │      │  ├─console
 │      │  ├─content
